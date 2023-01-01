@@ -1,4 +1,4 @@
-import {defineCliConfig} from 'sanity/cli'
+import {defineCliConfig} from 'Sanity/cli'
 
 export default defineCliConfig({
   api: {
